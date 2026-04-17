@@ -1,4 +1,5 @@
 ## Foi criada uma variável para a condição do primeiro while
+print('Insira uma sequência de DNA\nAdenina (A), Citosina (C), Guanina (G) e Timina (T)\nExemplo: AGGCT')
 SequenciaValida = False
 
 while(SequenciaValida == False):
