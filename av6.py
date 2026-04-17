@@ -16,6 +16,6 @@ else:
 print(fibo)
 
 # Fibonacci é uma sequência, em que o próximo número, é uma soma dos dois anteriores a ele, então, utilizamos um index, começando na segunda posição,
-# para poder pegar os valores que vão ser somados, enquanto a lista não for do tamanho requisitado pelo usuário, será adicionado a lista o valor na posição index somado com o valor
+# para poder pegar os valores que vão ser somados, enquanto a lista não for do tamanho requisitado pelo usuário, será adicionado à lista o valor na posição index somado com o valor
 # na posição index anterior a ele, e também o index vai aumentar, falando pro sistema
 # que a gente quer utilizar como próximo valor o número que foi adicionado.
